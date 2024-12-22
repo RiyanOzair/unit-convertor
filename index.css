@@ -25,6 +25,12 @@ h1{
     caret-color: #1F2937;
     }
 
+#input-el:hover,
+#input-el:focus{
+    background-color: #6943FF;
+}
+
+
 #convert-btn{
     padding: 10px 20px;
     border: #6943FF;
